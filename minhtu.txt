@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 mới tập làm lần đầu
 mắng bomay ít thôi
 hihi <3
 
 vạn thắng - ba vì
+=======
+>>>>>>> parent of 1d0f1e5 (minhtu.txt changed)

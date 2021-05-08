@@ -1,0 +1,36 @@
+using use C#;
+class minhtu
+{
+ static void Main(string[] args)
+ {
+float a,b,x
+
+console.write("nhap a:);
+string st = console.readline();
+a = float.parse(st);
+
+console.write("nhap b:");
+st = console.readline();
+b= float.parse(st);
+
+if (a == 0)
+{
+	if (b == 0)
+	{
+	 console.writeline("phuong trinh co vo so nghiem");
+	}
+	else
+	{
+	 console.ssriteline("phuong trinh vo nghiem");
+	}
+}
+else
+{
+  x= -b / a;
+	console.writeline("phuong trinh có nghiem la x = {0}", x);
+}
+console.read.();
+ 
+ }
+}
+
